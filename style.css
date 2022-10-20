@@ -1,3 +1,22 @@
 #root {
   color: red;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center ;
+  background-color: silver;
+}
+
+header {
+  font-size: 20px;
+  width: 250px;
+  color: black;
+}
+
+p{
+  width: 250px;
+}
+
+.GOTEps{
+  padding: 1rem 2rem;
+  background-color: antiquewhite;
 }
